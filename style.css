@@ -1,0 +1,50 @@
+/* Font-Style */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap');
+
+/* style-apply */
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.background-details{
+    background-color: #264653;
+    color: white;
+
+}
+.header-info{
+    padding: 100px;
+
+}
+
+.header-info h1{
+    font-weight: 600;
+}
+
+
+.header-info p{
+    font-weight: 300;
+    color: #E0E0E0;
+    width: 470px;
+}
+
+.button{
+    background-color: #E76F51;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 5px 20px;
+    font-weight: 500;
+}
+
+/* featured bikes */
+.gray{
+    filter: grayscale(1);
+} 
+
+.orrange{
+    color: #E76F51;
+
+}
+.name-highlight{
+    color: #23A6F0;
+}
